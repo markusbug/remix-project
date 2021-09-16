@@ -51,7 +51,7 @@
       "@remix-ui/terminal": ["libs/remix-ui/terminal/src/index.ts"],
       "@remix-ui/plugin-manager": ["libs/remix-ui/plugin-manager/src/index.ts"],
       "@remix-ui/editor": ["libs/remix-ui/editor/src/index.ts"],
-      "@remix-project/remix-ui/home-tab": ["libs/remix-ui/home-tab/src/index.ts"]
+      "@remix-ui/home-tab": ["libs/remix-ui/home-tab/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
