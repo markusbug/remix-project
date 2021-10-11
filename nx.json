@@ -136,13 +136,5 @@
     "remix-ui-vertical-icons-panel": {
       "tags": []
     }
-  },
-  "targetDependencies": {
-    "build": [
-      {
-        "target": "build",
-        "projects": "dependencies"
-      }
-    ]
   }
 }
