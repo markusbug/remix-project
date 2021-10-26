@@ -1122,8 +1122,7 @@
         }
       }
     }
-  }
-  ,
+  },
   "cli": {
     "defaultCollection": "@nrwl/react"
   },
