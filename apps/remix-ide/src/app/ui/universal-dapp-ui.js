@@ -181,6 +181,9 @@ UniversalDAppUI.prototype.renderInstanceFromABI = function (contractABI, address
     </div>
   `
   function verifyContract () {
+    /**
+     * Integrate into Etherscan Plugin
+     */
     window.open("https://etherscan.io/verifyContract", '_blank').focus();
   }
 
